@@ -55,7 +55,7 @@
                 string line = ws.ReadLine();
                 while (line != null) 
                 { 
-                
+                //i couldn't figure this out in time >_>
                 }
             }
         }
